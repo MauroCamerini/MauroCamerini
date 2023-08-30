@@ -3,5 +3,4 @@
 - 🌱 I learned to code self-taught at a young age and recently I took full-stack web development courses (React JS, Angular and Node.js)
 - 🙌 I've been working in touch with clients for 15 years.
 - 💞️ I am looking to join a team to which I can contribute with my technical and communication skills.
-- 📫 You can reach me at maurocamerini90@gmail.com
-
+- 📫 You can reach me at maurocamerini90@gmail.com or linkedin.com/in/maurocamerini
