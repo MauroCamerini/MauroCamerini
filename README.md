@@ -1,9 +1,9 @@
 # **Hey! I’m Mauro** 👋
 
-- 🚀 **What I do:** I’m a Help Desk Analyst (Level 1) at [Provincia Net](https://www.linkedin.com/company/provincia-net), tackling tech challenges and making things work smoothly for users every day. I provide technical assistance to end users, clients, and vendors
-- 💻 **My skills:** I got into coding young, and I’m always leveling up. Recently, I dove into full-stack development—React, Angular, Node.js—and I'm comfortable working with APIs and SQL databases. I love seeing how everything connects and making it all run seamlessly.
-- 🙌 **Working with people:** 15+ years in client-facing roles has taught me that tech is as much about people as it is about code. Whether it's a user or a teammate, I’m here to help and keep things moving.
-- 🤝 **Looking for:** A dynamic team where I can jump in, solve problems, and bring my technical know-how and client-focused approach to the table.
+- 🚀 **What I do:** I’m a Help Desk Analyst at [Provincia Net](https://www.linkedin.com/company/provincia-net), where I provide technical assistance to end users, clients, and vendors
+- 💻 **Development:** I got into coding young. In recent years, I dove into full stack web development with Node.js and React. I'm comfortable working with APIs and SQL databases.
+- 🙌 **Working with people:** 15+ years in client-facing roles has taught me that tech is as much about people as it is about code.
+- 🤝 **Looking for:** A team where I can jump in and bring my development knowledge and user-focused approach to bridge technical support and software solutions.
 - 📫 **Let’s connect:** maurocamerini90@gmail.com or [LinkedIn](https://www.linkedin.com/in/maurocamerini)
 
 ## What I'm Working On
